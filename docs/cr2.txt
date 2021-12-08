@@ -1,0 +1,11 @@
+The goal of this project is to:
+	1. Provide a high quality generic 6DOF or greater robotic arm
+	2. Provide a high quality generic dexterous manipulator
+with the intent of creating a robot that can cook.
+
+Existing arms that are common in robotics research:
+	- Universal Robotics UR5e
+	- KUKA iiwa
+	- Kinova Gen2/3
+	- FANUC CR-7 series
+	- Franka Emika Panda
